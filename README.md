@@ -29,12 +29,12 @@ Lumina AI는 최첨단 인공지능 기술을 활용한 주식 투자 플랫폼�
 - **API**: 한국투자증권 API
 - **차트**: TradingView, Chart.js
 - **실시간 데이터**: WebSocket
-- 
+  
 ## 설치 방법 
 
 1. 저장소 클론
 
-git clone https://github.com/yourusername/sunrize-ai-pro.git
+git clone https://github.com/mgmg0429/sunrize-ai-pro.git
 
 2. 의존성 설치
 
